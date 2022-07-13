@@ -1,0 +1,9 @@
+[submodule "bp-mgmt"]
+	path = bp-mgmt
+	url = https://github.com/openshift-telco/bp-mgmt-sno.lab.diktio.net.git
+[submodule "bp-common"]
+	path = bp-common
+	url = https://github.com/openshift-telco/bp-common.lab.diktio.net.git
+[submodule "values"]
+	path = values
+	url = https://github.com/openshift-telco/values-global-lab.diktio.net.git
